@@ -1,3 +1,4 @@
+![example solution](https://github.com/laochailan/nvst2/blob/master/screenshots/colormode2.png?raw=true)
 # nvst2
 
 This is a simulation of the 2D [incompressible Navier-Stokes equation][1]. There is
@@ -51,3 +52,4 @@ The boundary conditions are some cheaty periodic boundary conditions. I didn’t
 
 It’s probably not very accurate, but accurate enough to produce something that looks like a fluid so I’m happy with it.
 
+![Animated output](https://github.com/laochailan/nvst2/blob/master/screenshots/example.gif?raw=true)
